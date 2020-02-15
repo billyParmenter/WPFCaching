@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\BillyDeskTop\source\repos\WPFCaching\WPFCaching\obj\Debug\
+C:\Users\billy\source\repos\WPFCaching\WPFCaching\obj\Debug\
 WPFCaching
 none
 false
 DEBUG;TRACE
-C:\Users\BillyDeskTop\source\repos\WPFCaching\WPFCaching\App.xaml
-2991683107
+C:\Users\billy\source\repos\WPFCaching\WPFCaching\App.xaml
+3-746885605
 
-19-890327192
+21-1758092630
 141584963169
-MainWindow.xaml;Views\MainPageView.xaml;
+MainWindow.xaml;Views\TestingView.xaml;Views\MainPageView.xaml;
 
-False
+True
 
